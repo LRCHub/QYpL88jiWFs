@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Iなんです - れるりり feat.初音ミク / I am you - rerulili feat.Hatsune Miku",
+  "base_artist": "れるりり",
+  "createdAt": "2025-12-04T09:09:22.584613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Iなんです",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク",
+      "has_synced": true,
+      "path": "select/01_Iなんです_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Iなんです",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_Iなんです_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Iなんです (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_Iなんです_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Iなんです -instrumental-",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_Iなんです_-instrumental-_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Iなんです",
+      "artist": "れるりり",
+      "has_synced": false,
+      "path": "select/pl_01_Iなんです_れるりり.txt"
+    }
+  ]
+}
